@@ -16,4 +16,3 @@ _  .:∧_∧:<br>
 ＿:(;ﾞﾟωﾟ’):   이건 오류잖아!!!<br>
 　＼￣￣￣＼<br>
 　　￣￣￣￣</p>
-![9FE90DF3-06FC-43B7-B96A-AAF146E98C98](https://user-images.githubusercontent.com/89440450/131219575-574ebdb4-8e3d-4dda-bd6b-4efafa36978f.jpeg)
