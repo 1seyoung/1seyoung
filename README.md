@@ -1,7 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:2c7744,100:90EE90&height=200&text=I%20am%20Seyoung%20Han.&fontSize=55&fontColor=000000&animation=fadeIn)
-
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:d9a7c7,100:fffcdc&height=200&text=I%20am%20Seyoung%20Han.&fontSize=55&fontColor=000000&animation=fadeIn)
 ## Projects
 | 항목명 | 기간 | Github |
 |--------|------|-----------|
