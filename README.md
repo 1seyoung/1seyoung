@@ -1,13 +1,5 @@
-# SEYOUNG HAN
 
-
-
-
-
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:2c7744,100:90EE90&height=230&text=I%20am%20Seyoung%20Han.&fontSize=50&fontColor=000000&animation=fadeIn&fontAlign=30&fontAlignY=42&desc=숲을%20보며%20나무를%20심는%20개발자&descSize=18&descAlign=32&descAlignY=78)
 ## Projects
 | 항목명 | 기간 | Github |
 |--------|------|-----------|
@@ -17,9 +9,9 @@
 | Talk-o | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
 | Gatheria | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
 | 데이터 분석 | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| 드론제어 | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| Pyrexia | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| Teamate | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
+| 드론제어 | 22.07 ~ 22.12 | [GitHub](https://) |
+| PyrexiaSim | 22.08 ~ 22.11 | [GitHub](https://) |
+| TEAMate | 21.02 ~ 21.12 | [GitHub](https://) |
 
 ## Research & Paper
 | 항목명 | 기간 | 관련 링크 |
