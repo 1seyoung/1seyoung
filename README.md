@@ -23,7 +23,7 @@
 | 항해99 취업 리부트 코스 4기 | 2024.0 ~ 2024.MM | - |
 
 ## Projects
-| 항목명 | 기간 | 관련 링크 |
+| 항목명 | 기간 | Github |
 |--------|------|-----------|
 | UNEAR | YYYY.MM ~ YYYY.MM (6주) | [GitHub](https://) |
 | Archi | YYYY.MM ~ YYYY.MM (4주) | [GitHub](https://) |
