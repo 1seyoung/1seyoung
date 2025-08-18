@@ -25,9 +25,9 @@
 ## Projects
 | 항목명 | 기간 | 관련 링크 |
 |--------|------|-----------|
-| UNEAR | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| Archi | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| Planvel | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
+| UNEAR | YYYY.MM ~ YYYY.MM (6주) | [GitHub](https://) |
+| Archi | YYYY.MM ~ YYYY.MM (4주) | [GitHub](https://) |
+| Planvel | 25.05.05 ~ 25.05.16 (2주) | [GitHub](https://) |
 | Talk-o | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
 | Gatheria | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
 | 데이터 분석 | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
