@@ -11,17 +11,20 @@
 
 
 ## Projects
-| 항목명 | 기간 | Github |
-|--------|------|-----------|
-| UNEAR | YYYY.MM ~ YYYY.MM (6주) | [GitHub](https://) |
-| Archi | YYYY.MM ~ YYYY.MM (4주) | [GitHub](https://) |
-| Planvel | 25.05.05 ~ 25.05.16 (2주) | [GitHub](https://) |
-| Talk-o | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| Gatheria | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| 데이터 분석 | YYYY.MM ~ YYYY.MM | [GitHub](https://) |
-| 드론제어 | 22.07 ~ 22.12 | [GitHub](https://) |
-| PyrexiaSim | 22.08 ~ 22.11 | [GitHub](https://) |
-| TEAMate | 21.02 ~ 21.12 | [GitHub](https://) |
+| 프로젝트명 | 설명 | 기간 | Github | 성과 | 관련기관 |
+|:----------:|:---------------------------:|:-------------------:|:------:|:----:|:--------:|
+| UNEAR      | 구독 혜택 추천 플랫폼 | 25.07.01 ~ 25.08.12 (6주) | [GitHub](https://) |  |  |
+| Archi      | AI 기반 아키텍처 챗봇 서비스 | 25.06 ~ YYYY.06 (4주) | [GitHub](https://) |  |  |
+| Planvel    | 여행 계획 자동화 웹 애플리케이션 | 25.05.05 ~ 25.05.16 (2주) | [GitHub](https://) |  |  |
+| Talk-o     | 실시간 채팅 기반 스터디 플랫폼 | 25.MM ~ 25.MM | [GitHub](https://) |  |  |
+| Gatheria   | 교육 활동 지원 프로젝트 플랫폼 | 24.12 ~ 25.04 | [GitHub](https://) |  |  |
+| 데이터 분석 | 사용자 행동 데이터 분석 프로젝트 | YY.MM ~ YY.MM | [GitHub](https://) |  |  |
+| 드론제어   | 다중 드론 제어 시뮬레이션 시스템 | 22.07 ~ 22.12 | [GitHub](https://) |  |  |
+| PyrexiaSim | 열사병/일사병 위험 예측 시뮬레이터 | 22.08 ~ 22.11 | [GitHub](https://) |  |  |
+| TEAMate    | 팀원 매칭 및 협업 지원 서비스 | 21.02 ~ 21.12 | [GitHub](https://) |  |  |
+
+
+
 
 ## Research & Paper
 | 항목명 | 기간 | 관련 링크 |
