@@ -1,5 +1,14 @@
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:d9a7c7,100:fffcdc&height=200&text=I%20am%20Seyoung%20Han.&fontSize=55&fontColor=000000&animation=fadeIn)
+
+## About Me
+**숲을 보며 나무를 심는 개발자** 한세영입니다.  
+리더로서 **전체를 바라보며 방향을 제시**하고,  
+팔로워로서 **단계적으로 작은 조각을 채워가는 과정**의 가치를 잘 알고 있습니다.  
+
+작은 칸을 채워 큰 그림을 완성하는 **네모로직처럼**,  
+세부와 전체를 아우르며 **잘 만들고 잘 쓰이는 서비스**를 책임지겠습니다.
+
+
 ## Projects
 | 항목명 | 기간 | Github |
 |--------|------|-----------|
