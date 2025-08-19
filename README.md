@@ -27,22 +27,20 @@
 
 ## Research & Paper
 
+<h4>2023</h4>
 <table>
   <thead>
     <tr>
-      <th>년도</th>
       <th>구분</th>
       <th>기관</th>
       <th>학술대회/저널</th>
       <th>발표명/논문명</th>
       <th>날짜</th>
-      <th>관련 링크</th>
+      <th>링크</th>
     </tr>
   </thead>
   <tbody>
-    <!-- 2023 -->
     <tr>
-      <td align="center" rowspan="6" style="white-space:nowrap;">2023</td>
       <td align="center" style="white-space:nowrap;">석사논문</td>
       <td align="center" style="white-space:nowrap;">한밭대학교</td>
       <td align="center" style="white-space:nowrap;">-</td>
@@ -90,10 +88,23 @@
       <td align="center" style="white-space:nowrap;">-</td>
       <td align="center" style="white-space:nowrap;">-</td>
     </tr>
+  </tbody>
+</table>
 
-    <!-- 2022 -->
+<h4>2022</h4>
+<table>
+  <thead>
     <tr>
-      <td align="center" rowspan="4" style="white-space:nowrap;">2022</td>
+      <th>구분</th>
+      <th>기관</th>
+      <th>학술대회/저널</th>
+      <th>발표명/논문명</th>
+      <th>날짜</th>
+      <th>링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td align="center" style="white-space:nowrap;">국제학술대회</td>
       <td align="center" style="white-space:nowrap;">INFORMS</td>
       <td align="center" style="white-space:nowrap;">2022 Winter Simulation Conference</td>
@@ -133,10 +144,23 @@
       <td align="center" style="white-space:nowrap;">-</td>
       <td align="center" style="white-space:nowrap;">-</td>
     </tr>
+  </tbody>
+</table>
 
-    <!-- 2021 -->
+<h4>2021</h4>
+<table>
+  <thead>
     <tr>
-      <td align="center" rowspan="1" style="white-space:nowrap;">2021</td>
+      <th>구분</th>
+      <th>기관</th>
+      <th>학술대회/저널</th>
+      <th>발표명/논문명</th>
+      <th>날짜</th>
+      <th>링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td align="center" style="white-space:nowrap;">국내학술대회</td>
       <td align="center" style="white-space:nowrap;">한국공학교육학회</td>
       <td align="center" style="white-space:nowrap;">공학교육학술대회</td>
