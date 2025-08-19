@@ -26,103 +26,93 @@
 
 
 ## Research & Paper
-<table style="table-layout:fixed; width:100%; word-break:keep-all;">
-  <colgroup>
-    <col style="width:6%">   <!-- 년도 -->
-    <col style="width:14%">  <!-- 구분 -->
-    <col style="width:16%">  <!-- 기관 -->
-    <col style="width:20%">  <!-- 학술대회/저널 -->
-    <col style="width:34%">  <!-- 발표명/논문명 -->
-    <col style="width:10%">  <!-- 관련 링크 -->
-  </colgroup>
+
+<table>
   <thead>
     <tr>
       <th>년도</th>
       <th>구분</th>
-      <th>기관</th>
-      <th>학술대회/저널</th>
-      <th>발표명/논문명</th>
-      <th>관련 링크</th>
+      <th>기관/학회</th>
+      <th>제목</th>
+      <th>링크</th>
     </tr>
   </thead>
   <tbody>
+    <!-- 2023 -->
     <tr>
-      <td align="center" rowspan="6">2023</td>
+      <td rowspan="6" align="center">2023</td>
       <td align="center">석사논문</td>
       <td align="center">한밭대학교</td>
-      <td align="center">-</td>
-      <td>이산사건모델 기반 재구성이 가능한 워게임 시뮬레이션의 분산 실행 관리 시스템</td>
+      <td>이산사건모델 기반 재구성이 가능한 <br>워게임 시뮬레이션의 분산 실행 관리 시스템</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
       <td align="center">해군과학기술학회</td>
-      <td align="center">-</td>
       <td>이산사건시스템 형식론 모델 기반의 인공지능 솔루션</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
-      <td align="center">한국시뮬레이션학회</td>
-      <td align="center">추계학술대회</td>
+      <td align="center">한국시뮬레이션학회 추계학술대회</td>
       <td>이산사건시스템 형식론 모델 기반 다중 인공지능 모델 평가 프레임워크</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
-      <td align="center">한국전기전자학회</td>
-      <td align="center">하계학술대회</td>
+      <td align="center">한국전기전자학회 하계학술대회</td>
       <td>효과적인 인공지능 학습데이터 획득을 위한 모델기반 데이터 증강 방법</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">국내저널</td>
       <td align="center">한국시뮬레이션학회</td>
-      <td align="center">-</td>
       <td>-</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
-      <td align="center">한국통신학회</td>
-      <td align="center">동계종합학술발표회</td>
+      <td align="center">한국통신학회 동계종합학술발표회</td>
       <td>이산사건 시스템 기반의 팀 프로젝트 운영 지원 시스템</td>
       <td align="center">-</td>
     </tr>
+    <!-- 2022 -->
     <tr>
-      <td align="center" rowspan="4">2022</td>
+      <td rowspan="5" align="center">2022</td>
       <td align="center">국제학술대회</td>
-      <td align="center">INFORMS</td>
-      <td align="center">Winter Simulation Conference</td>
-      <td>Model Based Reconfigurable Unmanned System Using Discrete Event System Formalism</td>
+      <td align="center">2022 Winter Simulation Conference</td>
+      <td>Model Based Reconfigurable Unmanned System <br>Using Discrete Event System Formalism</td>
       <td align="center"><a href="#">Link</a></td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
-      <td align="center">한국시뮬레이션학회</td>
-      <td align="center">추계학술대회</td>
+      <td align="center">한국시뮬레이션학회 추계학술대회</td>
       <td>이산사건시스템 기반 디지털 트윈 아키텍처 설계 및 구현</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
-      <td align="center">한국전기전자학회</td>
-      <td align="center">하계학술대회</td>
-      <td>이산사건시스템 형식론 기반의 시뮬레이션 엔진을 활용한 무인체계 제어 시스템</td>
+      <td align="center">한국전기전자학회 하계학술대회</td>
+      <td>이산사건시스템 형식론 기반의 시뮬레이션 엔진을 활용한 <br>무인체계 제어 시스템</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
-      <td align="center">한국시뮬레이션학회</td>
-      <td align="center">춘계 온라인 학술대회</td>
+      <td align="center">한국시뮬레이션학회 춘계 온라인 학술대회</td>
       <td>이산사건시스템 형식론 기반 애플리케이션 개발 방법론</td>
       <td align="center">-</td>
     </tr>
-    <tr>
-      <td align="center">2021</td>
-      <td align="center">국내학술대회</td>
+        <tr>
+      <td align="center">국내저널</td>
       <td align="center">한국공학교육학회</td>
-      <td align="center">공학교육학술대회</td>
+      <td>-</td>
+      <td align="center">-</td>
+    </tr>
+    <!-- 2021 -->
+    <tr>
+      <td rowspan="1" align="center">2021</td>
+      <td align="center">국내학술대회</td>
+      <td align="center">한국공학교육학회 공학교육학술대회</td>
       <td>팀 프로젝트 학습의 효율적인 운영을 위한 데이터 획득 플랫폼</td>
       <td align="center">-</td>
     </tr>
