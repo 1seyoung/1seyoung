@@ -41,8 +41,8 @@
   <tbody>
     <tr>
       <td align="center" rowspan="6" style="white-space:nowrap;">2023</td>
-      <td align="center" style="white-space:nowrap;">석사논문</td>
-      <td align="center" style="white-space:nowrap;">한밭대학교</td>
+      <td align="center" style="white-space:nowrap;">  석사논문  </td>
+      <td align="center" style="white-space:nowrap;">  한밭대학교  </td>
       <td align="center" style="white-space:nowrap;">-</td>
       <td style="white-space:normal;">이산사건모델 기반 재구성이 가능한 워게임 시뮬레이션의 분산 실행 관리 시스템</td>
       <td align="center">-</td>
