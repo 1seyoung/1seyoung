@@ -132,7 +132,6 @@
       <th>대회명</th>
       <th>수상명</th>
       <th>발표/작품명</th>
-      <th>날짜</th>
     </tr>
   </thead>
   <tbody>
@@ -143,67 +142,62 @@
       <td align="center">최종융합프로젝트 경진대회</td>
       <td align="center">최우수상</td>
       <td>통신사 멤버십 제휴처 안내 지도 서비스</td>
-      <td align="center">2025/08/12</td>
     </tr>
     <tr>
       <td align="center">LGU+ 유레카</td>
       <td align="center">종합프로젝트 경진대회</td>
       <td align="center">우수상</td>
       <td>통신성향 파악 및 상품 비교추천 서비스</td>
-      <td align="center">2025/06/24</td>
     </tr>
+    <!-- 2024 -->
     <tr>
       <td align="center">2024</td>
       <td align="center">한밭대학교</td>
       <td align="center">-</td>
       <td align="center">학업우수상</td>
       <td>-</td>
-      <td align="center">2024/02/16</td>
     </tr>
+    <!-- 2023 -->
     <tr>
       <td align="center" rowspan="2">2023</td>
       <td align="center">한국시뮬레이션학회</td>
       <td align="center">추계학술대회</td>
       <td align="center">우수논문발표상</td>
       <td>이산사건시스템 형식론 기반 인공지능 솔루션</td>
-      <td align="center">2023/12/01</td>
     </tr>
     <tr>
       <td align="center">한국시뮬레이션학회</td>
       <td align="center">춘계학술대회</td>
       <td align="center">우수논문발표상</td>
       <td>효과적인 인공지능 학습데이터 증강 방법</td>
-      <td align="center">2023/06/30</td>
     </tr>
+    <!-- 2022 -->
     <tr>
       <td align="center" rowspan="3">2022</td>
       <td align="center">한국시뮬레이션학회</td>
       <td align="center">추계학술대회</td>
       <td align="center">우수논문발표상</td>
       <td>이산사건시스템 기반 디지털 트윈 아키텍처 설계 및 구현</td>
-      <td align="center">2022/11/25</td>
     </tr>
     <tr>
       <td align="center">나눔과 기술</td>
       <td align="center">제14회 창의설계 경진대회</td>
       <td align="center">금상</td>
       <td>-</td>
-      <td align="center">2022/11/19</td>
     </tr>
     <tr>
       <td align="center">한국시뮬레이션학회</td>
       <td align="center">춘계학술대회</td>
       <td align="center">우수논문발표상</td>
       <td>이산사건 시스템 형식론 기반 앱 개발 방법론</td>
-      <td align="center">2022/06/04</td>
     </tr>
+    <!-- 2021 -->
     <tr>
       <td align="center">2021</td>
       <td align="center">한밭대학교</td>
       <td align="center">제10회 작품전시회</td>
       <td align="center">금상</td>
       <td>팀메이트</td>
-      <td align="center">2021/12/03</td>
     </tr>
   </tbody>
 </table>
