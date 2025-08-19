@@ -26,7 +26,15 @@
 
 
 ## Research & Paper
-<table style="word-break:keep-all; white-space:nowrap;">
+<table style="table-layout:fixed; width:100%; word-break:keep-all;">
+  <colgroup>
+    <col style="width:6%">   <!-- 년도 -->
+    <col style="width:12%">  <!-- 구분 -->
+    <col style="width:15%">  <!-- 기관 -->
+    <col style="width:18%">  <!-- 학술대회/저널 -->
+    <col style="width:39%">  <!-- 발표명/논문명 -->
+    <col style="width:10%">  <!-- 관련 링크 -->
+  </colgroup>
   <thead>
     <tr>
       <th>년도</th>
