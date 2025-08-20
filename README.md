@@ -79,8 +79,8 @@
     <tr>
       <td align="center">국내학술대회</td>
       <td align="center"><sub>[한국전기전자학회]</sub> <br>2023 하계학술대회</td>
-      <td>효과적인 인공지능 학습데이터 획득을 위한 모델기반 데이터 증강 방법</td>
-      <td align="center">-</td>
+      <td>이산사건시스템 기반 다중 인공지능 모델 평가 프레임워크</td>
+      <td align="center"><a href="https://drive.google.com/file/d/1jedrl_FHGEc5YdDozz0_VFjpajM3gNbC/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="24" alt="PDF"/></a></td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
