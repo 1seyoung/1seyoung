@@ -151,13 +151,13 @@
       <td align="center">LGU+ 유레카</td>
       <td align="center">최종융합프로젝트 경진대회</td>
       <td align="center">최우수상</td>
-      <td>통신사 멤버십 제휴처 안내 지도 서비스</td>
+      <td>통신사 멤버십 제휴처 안내 지도 서비스<br><sub>(U:Near)</sub></td>
     </tr>
     <tr>
       <td align="center">LGU+ 유레카</td>
       <td align="center">종합프로젝트 경진대회</td>
       <td align="center">우수상</td>
-      <td>통신성향 파악 및 상품 비교추천 서비스</td>
+      <td>통신성향 파악 및 상품 비교추천 서비스<br><sub>(Archi)</sub></td>
     </tr>
     <!-- 2024 -->
     <tr>
@@ -207,7 +207,7 @@
       <td align="center">한밭대학교</td>
       <td align="center">제10회 작품전시회</td>
       <td align="center">금상</td>
-      <td>팀메이트</td>
+      <td>채팅 데이터 기반 팀 프로젝트 참여도 분석 시스템<br><sub>(TEAMate)</sub></td>
     </tr>
   </tbody>
 </table>
