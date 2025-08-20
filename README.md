@@ -86,7 +86,7 @@
     </tr>
     <tr>
       <td align="center">국내저널</td>
-      <td align="center">한국시뮬레이션학회 논문지 <br>2023년 6월호</td>
+      <td align="center"><sub>[한국시뮬레이션학회 논문지]</sub> <br>2023년 6월호</td>
       <td>이산사건시스템 기반의 쾌속 디지털 트윈 프로토타입 개발 방법론</td>
       <td align="center">-</td>
     </tr>
@@ -118,8 +118,8 @@
     </tr>
         <tr>
       <td align="center">국내저널</td>
-      <td align="center"><sub>[한국공학교육학회]</sub></td>
-      <td>-</td>
+      <td align="center"><sub>[한국공학교육학회 논문지]</sub>제25권 3호</td>
+      <td>비대면 팀 프로젝트 기반 수업 평가를 위한 분석 방법 및 평가환경</td>
       <td align="center">-</td>
     </tr>
     <!-- 2021 -->
