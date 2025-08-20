@@ -118,7 +118,7 @@
     </tr>
         <tr>
       <td align="center">국내저널</td>
-      <td align="center"><sub>[한국공학교육학회 논문지]</sub>제25권 3호</td>
+      <td align="center"><sub>[한국공학교육학회 논문지]</sub><br>제25권 3호</td>
       <td>비대면 팀 프로젝트 기반 수업 평가를 위한 분석 방법 및 평가환경</td>
       <td align="center">-</td>
     </tr>
