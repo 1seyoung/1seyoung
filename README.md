@@ -133,7 +133,7 @@
       <td align="center">국내학술대회</td>
       <td align="center"><sub>[한국공학교육학회]</sub> <br>2021 공학교육학술대회</td>
       <td>팀 프로젝트 학습의 효율적인 운영을 위한 데이터 획득 플랫폼</td>
-      <td align="center">-</td>
+      <td align="center"><a href="https://drive.google.com/file/d/1qEuvPm8dWTz3EjBEwPnDfCRCLid4SSsc/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="24" alt="PDF"/></a></td>
     </tr>
   </tbody>
 </table>
