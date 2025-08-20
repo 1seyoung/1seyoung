@@ -22,6 +22,10 @@
 
 </div>
 
+## Timeline
+
+<img width="2393" height="441" alt="image" src="https://github.com/user-attachments/assets/826ce496-ea01-43b2-9e41-2193770b28b1" />
+
 
 
 ## Projects
