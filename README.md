@@ -8,7 +8,8 @@
 세부와 전체를 아우르며 <b>잘 만들고 잘 쓰이는 서비스</b>를 책임지겠습니다.</p>
 
 </div>
-
+<br>
+<br>
 <div align="center">
 
 ## Why I Record  
