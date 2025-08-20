@@ -120,7 +120,7 @@
       <td align="center">국내저널</td>
       <td align="center"><sub>[한국공학교육학회 논문지]</sub><br>제25권 3호</td>
       <td>비대면 팀 프로젝트 기반 수업 평가를 위한 분석 방법 및 평가환경</td>
-      <td align="center"><a href="https://drive.google.com/file/d/1RIIeKmK9Y7pDGcKX83c4pkPrm0bwVIeu/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="28" alt="PDF"/></a>
+      <td align="center"><a href="https://drive.google.com/file/d/1RIIeKmK9Y7pDGcKX83c4pkPrm0bwVIeu/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="24" alt="PDF"/></a>
       </td>
     </tr>
     <!-- 2021 -->
