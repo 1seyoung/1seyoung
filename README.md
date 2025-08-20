@@ -52,7 +52,7 @@
       <th>구분</th>
       <th>기관/학회</th>
       <th>제목</th>
-      <th>링크</th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
