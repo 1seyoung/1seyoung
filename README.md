@@ -151,13 +151,13 @@
       <td align="center">LGU+ 유레카</td>
       <td align="center">최종융합프로젝트 경진대회</td>
       <td align="center">최우수상</td>
-      <td>통신사 멤버십 제휴처 안내 지도 서비스<br><sub>(U:Near)</sub></td>
+      <td align="center">통신사 멤버십 제휴처 안내 지도 서비스<br><sub>(U:Near)</sub></td>
     </tr>
     <tr>
       <td align="center">LGU+ 유레카</td>
       <td align="center">종합프로젝트 경진대회</td>
       <td align="center">우수상</td>
-      <td>통신성향 파악 및 상품 비교추천 서비스<br><sub>(Archi)</sub></td>
+      <td align="center">통신성향 파악 및 상품 비교추천 서비스<br><sub>(Archi)</sub></td>
     </tr>
     <!-- 2024 -->
     <tr>
@@ -165,7 +165,7 @@
       <td align="center">한밭대학교</td>
       <td align="center">-</td>
       <td align="center">학업우수상</td>
-      <td>-</td>
+      <td align="center">-</td>
     </tr>
     <!-- 2023 -->
     <tr>
@@ -173,13 +173,13 @@
       <td align="center">한국시뮬레이션학회</td>
       <td align="center">추계학술대회</td>
       <td align="center">우수논문발표상</td>
-      <td>이산사건시스템 형식론 기반 인공지능 솔루션</td>
+      <td align="center">이산사건시스템 형식론 기반 인공지능 솔루션</td>
     </tr>
     <tr>
       <td align="center">한국시뮬레이션학회</td>
       <td align="center">춘계학술대회</td>
       <td align="center">우수논문발표상</td>
-      <td>효과적인 인공지능 학습데이터 증강 방법</td>
+      <td align="center">효과적인 인공지능 학습데이터 증강 방법</td>
     </tr>
     <!-- 2022 -->
     <tr>
@@ -193,13 +193,13 @@
       <td align="center">나눔과 기술</td>
       <td align="center">제14회 창의설계 경진대회</td>
       <td align="center">금상</td>
-      <td>-</td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">한국시뮬레이션학회</td>
       <td align="center">춘계학술대회</td>
       <td align="center">우수논문발표상</td>
-      <td>이산사건 시스템 형식론 기반 앱 개발 방법론</td>
+      <td align="center">이산사건 시스템 형식론 기반 앱 개발 방법론</td>
     </tr>
     <!-- 2021 -->
     <tr>
@@ -207,7 +207,7 @@
       <td align="center">한밭대학교</td>
       <td align="center">제10회 작품전시회</td>
       <td align="center">금상</td>
-      <td>채팅 데이터 기반 팀 프로젝트 참여도 분석 시스템<br><sub>(TEAMate)</sub></td>
+      <td align="center">채팅 데이터 기반 팀 프로젝트 참여도 분석 시스템<br><sub>(TEAMate)</sub></td>
     </tr>
   </tbody>
 </table>
