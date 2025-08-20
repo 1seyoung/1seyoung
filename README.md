@@ -61,7 +61,7 @@
   <tbody>
     <!-- 2023 -->
     <tr>
-      <td rowspan="6" align="center">2023</td>
+      <td rowspan="5" align="center">2023</td>
       <td align="center">석사논문</td>
       <td align="center">한밭대학교</td>
       <td>이산사건모델 기반 재구성이 가능한 <br>워게임 시뮬레이션의 분산 실행 관리 시스템</td>
@@ -89,12 +89,6 @@
       <td align="center">국내저널</td>
       <td align="center"><sub>[한국시뮬레이션학회]</sub></td>
       <td>-</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <td align="center">국내학술대회</td>
-      <td align="center"><sub>[한국통신학회]</sub> <br>2023 동계종합학술발표회</td>
-      <td>이산사건 시스템 기반의 팀 프로젝트 운영 지원 시스템</td>
       <td align="center">-</td>
     </tr>
     <!-- 2022 -->
