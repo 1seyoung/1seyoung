@@ -86,9 +86,9 @@
     </tr>
     <tr>
       <td align="center">국내저널</td>
-      <td align="center"><sub>[한국시뮬레이션학회]</sub></td>
+      <td align="center">한국시뮬레이션학회 논문지 제 32권 제2호 11p ~ 18p<sub>[한국시뮬레이션학회]</sub></td>
       <td>-</td>
-      <td align="center">-</td>
+      <td align="center">이산사건시스템 기반의 쾌속 디지털 트윈 프로토타입 개발 방법론</td>
     </tr>
     <!-- 2022 -->
     <tr>
