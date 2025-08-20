@@ -94,7 +94,7 @@
       <td align="center">국제학술대회</td>
       <td align="center">2022 WSC</td>
       <td>Model Based Reconfigurable Unmanned System <br>Using Discrete Event System Formalism</td>
-      <td align="center"><a href="#">Link</a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1awIUXYm5TDiSqenpRUFp9FX4iNQOUl4W/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="24" alt="PDF"/></a></td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
