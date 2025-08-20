@@ -9,6 +9,18 @@
 
 </div>
 
+<div align="center">
+
+## Why I Record  
+지난 4년간의 기록은 단순한 흔적이 아니라,  
+**실행을 돌아보고 배움을 정리하며 문제 해결력을 키워온 과정**이었습니다.  
+**회고로 과거를 배우고, 현재를 해결하며, 미래를 준비하겠습니다.**  
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-notion-link) 
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://your-obsidian-blog-link)
+
+</div>
+
 
 ## Projects
 | 프로젝트명 | 설명 | 기간 | Github | 성과 | 관련기관 |
