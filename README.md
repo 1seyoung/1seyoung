@@ -17,8 +17,8 @@
 **실행을 돌아보고 배움을 정리하며 문제 해결력을 키워온 과정**이었습니다.  
 **회고로 과거를 배우고, 현재를 해결하며, 미래를 준비하겠습니다.**  
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-notion-link) 
-[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://your-obsidian-blog-link)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://30e.notion.site/I-m-Seyoung-256167d78c7880bc8bdcfdb30a993ed9?source=copy_link) 
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://publish.obsidian.md/130blog)
 
 </div>
 <div align="center">
