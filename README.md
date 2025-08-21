@@ -115,19 +115,19 @@
       <td align="center">국내학술대회</td>
       <td align="center"><sub>[한국시뮬레이션학회]</sub> <br>2022 추계학술대회</td>
       <td>이산사건시스템 기반 디지털 트윈 아키텍처 설계 및 구현</td>
-      <td align="center">-</td>
+      <td align="center"><a href="https://drive.google.com/file/d/1G6_owLUqPVs_hVDCyJWJXJJal-G7phE0/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="24" alt="PDF"/></a></td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
       <td align="center"><sub>[한국전기전자학회]</sub> <br>2022 하계학술대회</td>
       <td>이산사건시스템 형식론 기반의 시뮬레이션 엔진을 활용한 <br>무인체계 제어 시스템</td>
-      <td align="center">-</td>
+      <td align="center"><a href="https://drive.google.com/file/d/1H5W6QxPq8M9q-wGt1TH5jgQ3YGjw3eJA/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="24" alt="PDF"/></a></td>
     </tr>
     <tr>
       <td align="center">국내학술대회</td>
       <td align="center"><sub>[한국시뮬레이션학회]</sub> <br>2022 춘계 온라인 학술대회</td>
       <td>이산사건시스템 형식론 기반 애플리케이션 개발 방법론</td>
-      <td align="center">-</td>
+      <td align="center"><a href="https://drive.google.com/file/d/1DtC_q3rVFL-DgDEuBkuH43HY_5MVX5L0/view?usp=sharing"><img src="./assets/icons8-pdf-100.png" width="24" alt="PDF"/></a></td>
     </tr>
     <tr>
       <td align="center">국내저널</td>
