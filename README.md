@@ -21,13 +21,17 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://publish.obsidian.md/130blog)
 
 </div>
-<div align="center">
 <br>
+<div align="center">
+  
+## What I Used in Development
 
-## Timeline
-
-<img width="2393" height="441" alt="image" src="https://github.com/user-attachments/assets/826ce496-ea01-43b2-9e41-2193770b28b1" />
 </div>
+
+| Languages & Frameworks | Databases & ORM | DevOps & Infrastructure | Tools & Collaboration |
+|---|---|---|---|
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) <br> ![MyBatis](https://img.shields.io/badge/MyBatis-FF5733?style=for-the-badge&logoColor=white) <br> ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) <br> ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| 주요 백엔드 프로젝트, REST API 개발 / AI API 서버 구축, 데이터 처리 경험 | 대규모 트랜잭션 처리, 쿼리 최적화 / 캐싱, 실시간 알림, Redis Stream 메시징 | 배포 자동화 (EC2, S3, CloudFront, ELB) / CI/CD 파이프라인 구축 / 로그 수집 파이프라인 PoC | Git 기반 협업 / 이슈·태스크 관리 |
 
 
 ## Projects
