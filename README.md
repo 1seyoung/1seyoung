@@ -39,13 +39,13 @@
 ---
 
 ## Projects
-| 프로젝트명 | 설명 | 기간 | 성과 | 관련기관 |  |  |
-|:----------:|:---------------------------:|:-------------------:|:----:|:--------:|:------:|:--------:|
-| **U:Near** <br><sub>(팀프로젝트)</sub>     | 오프라인 매장과 사용자 간 <br>연결을 돕는 참여형 혜택 플랫폼 | 25.07.01 <br> ~ 25.08.12 | 최우수상 | LGU+ 유레카 | <a href="https://github.com/ureca-poject-unear/unear-infra"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> | <a href="https://your-obsidian-blog-link"><img src="./assets/obsidian-icon.svg" width="24" alt="Obsidian Logo"/></a> |
-| **Archi** <br><sub>(팀프로젝트)</sub>     | AI 챗봇을 활용한 <br>구독 성향 맞춤 추천 플랫폼 | 25.06.02 <br> ~ 25.06.24 | 우수상 | LGU+ 유레카 | <a href="https://github.com/eureka-project-4"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> | <a href="https://your-obsidian-blog-link"><img src="./assets/obsidian-icon.svg" width="24" alt="Obsidian Logo"/></a> |
-| **Planvel**<br><sub>(팀프로젝트)</sub>    | 여행 계획 생성 서비스 | 25.05.05<br> ~ 25.05.16 | 팀 리딩 및 프로젝트 관리 | LGU+ 유레카 | <a href="https://github.com/eureka-planvel"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> | <a href="https://your-obsidian-blog-link"><img src="./assets/obsidian-icon.svg" width="24" alt="Obsidian Logo"/></a> |
-| **PyrexiaSim** <br><sub>(용역/연구/개발)</sub> | 디지털 트윈 기반의 <br>산업 안전 빅데이터 플랫폼 | 22.08<br> ~ 22.11 | 후속 과제 수주 | 한밭대학교,<br>ETRI | <a href="https://github.com/1seyoung/2023ETRI_ForReport"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> | <a href="https://your-obsidian-blog-link"><img src="./assets/obsidian-icon.svg" width="24" alt="Obsidian Logo"/></a> |
-| **TEAMate** <br><sub>(팀프로젝트)</sub>   | 채팅 데이터 기반 <br>팀 프로젝트 참여도 분석 시스템 | 21.02<br> ~ 21.12 | 작품전시회 금상 | 한밭대학교 | <a href="https://github.com/1seyoung/COME-CAPSTONE-TEAMate"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> | <a href="https://your-obsidian-blog-link"><img src="./assets/obsidian-icon.svg" width="24" alt="Obsidian Logo"/></a> |
+| 프로젝트명 | 설명 | 기간 | 성과 | 관련기관 |  |
+|:----------:|:---------------------------:|:-------------------:|:----:|:--------:|:------:|
+| **U:Near** <br><sub>(팀프로젝트)</sub>     | 오프라인 매장과 사용자 간 <br>연결을 돕는 참여형 혜택 플랫폼 | 25.07.01 <br> ~ 25.08.12 | 최우수상 | LGU+ 유레카 | <a href="https://github.com/ureca-poject-unear/unear-infra"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> |
+| **Archi** <br><sub>(팀프로젝트)</sub>     | AI 챗봇을 활용한 <br>구독 성향 맞춤 추천 플랫폼 | 25.06.02 <br> ~ 25.06.24 | 우수상 | LGU+ 유레카 | <a href="https://github.com/eureka-project-4"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> |
+| **Planvel**<br><sub>(팀프로젝트)</sub>    | 여행 계획 생성 서비스 | 25.05.05<br> ~ 25.05.16 | 팀 리딩 및 프로젝트 관리 | LGU+ 유레카 | <a href="https://github.com/eureka-planvel"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> |
+| **PyrexiaSim** <br><sub>(용역/연구/개발)</sub> | 디지털 트윈 기반의 <br>산업 안전 빅데이터 플랫폼 | 22.08<br> ~ 22.11 | 후속 과제 수주 | 한밭대학교,<br>ETRI | <a href="https://github.com/1seyoung/2023ETRI_ForReport"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> |
+| **TEAMate** <br><sub>(팀프로젝트)</sub>   | 채팅 데이터 기반 <br>팀 프로젝트 참여도 분석 시스템 | 21.02<br> ~ 21.12 | 작품전시회 금상 | 한밭대학교 | <a href="https://github.com/1seyoung/COME-CAPSTONE-TEAMate"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/></a> |
 
 
 ## Research & Paper
@@ -226,10 +226,10 @@
 
 
 ## Experience
-| 항목명 | 기간 | 직무 | 업무 | 관련 링크 |
-|--------|------|------|------|-----------|
-| 한국생산기술연구원 산업융합엔지니어링혁신센터 | 21.12 ~ 22.02 (3개월) | 연구별정(단) | - | [링크](https://) |
-| 한밭대학교 SYSAI LAB | 21.06 ~ 24.02 (2년 8개월) | 학부/석사연구생 | - | [링크](https://) |
+| 항목명 | 기간 | 직무 | 업무 |
+|--------|------|------|------|
+| 한국생산기술연구원 산업융합엔지니어링혁신센터 | 21.12 ~ 22.02 (3개월) | 연구별정(단) | - |
+| 한밭대학교 SYSAI LAB | 21.06 ~ 24.02 (2년 8개월) | 학부/석사연구생 | - |
 
 ## Education
 | 학교 | 학위 | 기간 | 졸업 과제 |
@@ -237,14 +237,12 @@
 | 한밭대학교 컴퓨터공학과 | 석사 | 22.03 ~ 24.02 | 이산 사건 모델 기반의 재구성 가능한 시스템 구축 방법론: <br>인공지능 솔루션을 중심으로 |
 | 한밭대학교 컴퓨터공학과 | 학사 |17.03 ~ 22.02 | 채팅 데이터 기반의 팀 프로젝트 참여도 분석 시스템 |
 
+
 ## Bootcamp
 | 항목명 | 기간 | 
-|--------|------|-----------|
+|--------|------|
 | LGU+ 유레카 비대면 백엔드 2기 | 25.01 ~ 25.08(8개월) | 
 | F-Lab 자바 백엔드 과정 | 24.12 ~ 25.04(5개월) | 
 | 항해99 취업 리부트 코스 4기 | 24.07 ~ 24.09(3개월) | 
 
-## Extracurricular Activities
-| 항목명 | 기간 | 관련 링크 |
-|--------|------|-----------|
-| 활동명 | YYYY.MM ~ YYYY.MM | [링크](https://) |
+
