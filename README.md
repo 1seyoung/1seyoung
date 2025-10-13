@@ -1,20 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:d9a7c7,100:fffcdc&height=200&text=I%20am%20Seyoung%20Han.&fontSize=55&fontColor=000000&animation=fadeIn)
-<div align="center">
-<p><b>숲을 보며 나무를 심는 개발자</b> 한세영입니다.<br/>
-리더로서 <b>전체를 바라보며 방향을 제시</b>하고,<br/>
-팔로워로서 <b>단계적으로 작은 조각을 채워가는 과정</b>의 가치를 잘 알고 있습니다.</p>
 
-<p>작은 칸을 채워 큰 그림을 완성하는 <b>퍼즐처럼</b>,<br/>
-세부와 전체를 아우르며 <b>잘 만들고 잘 쓰이는 서비스</b>를 책임지겠습니다.</p>
-
-</div>
-<br>
-<br>
-<div align="center">
-
-## Why I Record  
-기록하며 성장해왔습니다<br>
-**회고로 과거를 배우고, 현재를 해결하며, 미래를 준비하겠습니다.**  
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://30e.notion.site/I-m-Seyoung-256167d78c7880bc8bdcfdb30a993ed9?source=copy_link) 
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://publish.obsidian.md/130blog)
