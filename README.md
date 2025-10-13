@@ -2,7 +2,7 @@
 
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://30e.notion.site/I-m-Seyoung-256167d78c7880bc8bdcfdb30a993ed9?source=copy_link) 
-[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://publish.obsidian.md/130blog)
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://publish.obsidian.md/1seyoung)
 
 </div>
 <br>
