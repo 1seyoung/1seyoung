@@ -1,13 +1,7 @@
 
 
 
-</div>
-<br>
-<div align="center">
-  
-## What I Used in Development
 
-</div>
 
 
 | Backend | Data & AI | Databases | DevOps & Infra | Tools |
