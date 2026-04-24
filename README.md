@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:d9a7c7,100:fffcdc&height=200&text=I%20am%20Seyoung%20Han.&fontSize=55&fontColor=000000&animation=fadeIn)
 
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://30e.notion.site/I-m-Seyoung-256167d78c7880bc8bdcfdb30a993ed9?source=copy_link) 
